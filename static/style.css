@@ -1,0 +1,24 @@
+/* Prediction Text - Colorful Gradient */
+.prediction-text {
+    background: linear-gradient(90deg, #ff416c, #ff4b2b, #ffcc00, #1dd1a1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: #ffcc00; /* Fallback color for unsupported browsers */
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+/* Head Text Styling */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background: linear-gradient(90deg, #ff7e5f, #feb47b); /* Vibrant Gradient */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text; 
+    text-emphasis-color: transparent;
+    display: inline-block; /* Required for webkit text clipping */
+}
+

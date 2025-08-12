@@ -9,7 +9,7 @@ This project demonstrates how machine learning can be applied to business analyt
 Business-Analytics-With-ML-And-Excel/
 ├── app.py                             # Flask application
 ├── Model.py                           # ML model logic
-├── Wine Company.xlsx                  # Excel dataset
+├── Wine Company.xlsx                  # Excel Model
 ├── wine_quality_red_model.pkl         # Trained model (Red wine)
 ├── wine_quality_white_model.zip       # Trained model (White wine)
 ├── static/
@@ -17,7 +17,7 @@ Business-Analytics-With-ML-And-Excel/
 ├── templates/
 │   ├── index.html                     # Web UI
 │   └── favicon.ico
-├── Wine Company Project Report.pdf    # Documentation/report
+├── Wine Company Project Report.pdf    # Project report
 ```
 
 ## 🚀 How to Run the App

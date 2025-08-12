@@ -52,7 +52,7 @@ Business-Analytics-With-ML-And-Excel/
 
 ## 📄 Project Report
 
-For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`]().
+For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`](Business Analytics- Wine Company (Report).pdf).
 
 ---
 

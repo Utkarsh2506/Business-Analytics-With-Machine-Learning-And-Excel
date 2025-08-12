@@ -48,11 +48,11 @@ Business-Analytics-With-ML-And-Excel/
 - Python, Flask
 - Pandas, scikit-learn
 - HTML/CSS (Jinja templates)
-- Excel (Data source)
+- Excel (Solver, NPV, Linear Programming, Transport and Assignment Problems)
 
 ## 📄 Project Report
 
-For detailed methodology and results, see [`DC PROJECT REPORT.pdf`](./DC%20PROJECT%20REPORT.pdf).
+For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`]().
 
 ---
 

@@ -37,22 +37,27 @@ Business-Analytics-With-ML-And-Excel/
 
 ## 🔍 Features
 
-- Upload wine sample data.
-- Predict quality using trained ML models (Red and White wine).
-- Visual representation via HTML frontend.
-- Excel models to answer the problem statements.
-- Business analytics insights based on Excel data.
+- Wine Quality Prediction-
+Predict red and white wine quality based on physicochemical properties using trained ML models.
+- Excel Business Models-
+   - Transportation cost optimization using Excel Solver.
+   - Profitability analysis for different wine types.
+   - NPV (Net Present Value) calculations for long-term investment decisions.
+- Interactive Web Interface-
+Clean, responsive UI with form validation, autofill for best quality wine, and real-time predictions.
 
 ## 📊 Technologies Used
 
-- Python, Flask
-- Pandas, scikit-learn
-- HTML/CSS (Jinja templates)
-- Excel (Solver, NPV, Linear Programming, Transport and Assignment Problems)
+- Programming & Frameworks: Python, Flask
+- Data Analysis: Pandas, scikit-learn
+- Business Analytics: Excel (Solver, NPV, Linear Programming, Optimization Models)
+- Frontend: HTML, CSS (Bootstrap), Jinja2 Templates
+
+
 
 ## 📄 Project Report
 
-For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`]().
+For detailed methodology and results, see [`Wine Company Project Report`]().
 
 ---
 

@@ -40,7 +40,7 @@ Business-Analytics-With-ML-And-Excel/
 - Upload wine sample data.
 - Predict quality using trained ML models (Red and White wine).
 - Visual representation via HTML frontend.
-- Excel models to answer the problem statements
+- Excel models to answer the problem statements.
 - Business analytics insights based on Excel data.
 
 ## 📊 Technologies Used
@@ -52,7 +52,7 @@ Business-Analytics-With-ML-And-Excel/
 
 ## 📄 Project Report
 
-For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`](Business Analytics- Wine Company (Report).pdf).
+For detailed methodology and results, see [`Business Analytics- Wine Company (Report).pdf`]().
 
 ---
 
